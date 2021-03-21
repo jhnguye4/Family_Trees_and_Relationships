@@ -1,0 +1,10 @@
+< H, T, X, Z, C, R, P.
+> X, Z, T, R, P, C, H.
+? X, T.
+? C, H.
+? H, T.
+? X, Z.
+? R, P.
+? C, R.
+? H, P.
+

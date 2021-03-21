@@ -1,0 +1,8 @@
+X is T's parent
+C is H's child
+H is T's parent
+X is Z
+R is P
+C is R's child
+H is P
+H T C X Z R P 
