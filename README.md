@@ -14,6 +14,6 @@ Your task is to develop and implement a recursive procedure to construct the tre
 In order to run with input files:
 
 * javac proj2.java
-* java proj1
+* java proj2
 * Enter a filename or Q to quit: small-input.txt
 * Results will be in small-output.txt
